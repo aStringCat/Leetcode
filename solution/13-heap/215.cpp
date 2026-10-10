@@ -1,0 +1,9 @@
+#include "../../leetcode.h"
+
+// 数组中的第 K 个最大元素
+// https://leetcode.cn/problems/kth-largest-element-in-an-array/
+
+class Solution {
+public:
+    int findKthLargest(vector<int>& nums, int k);
+};
